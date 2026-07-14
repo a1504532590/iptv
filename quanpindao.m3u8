@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,厦门卫视_(576p)
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
+#EXTINF:-1,台视_(720p)
+http://162.19.247.76:22222/live/taishi/index.m3u8
+
+#EXTM3U
 #EXTINF:-1,[SD]厦门卫视
 https://t.freetv.fun/live/sha-men-wei-shi-1.m3u8
 #EXTINF:-1,[SD]厦门卫视
