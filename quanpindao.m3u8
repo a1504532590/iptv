@@ -17,6 +17,9 @@ https://t.freetv.fun/live/sha-men-wei-shi-8.m3u8
 https://t.freetv.fun/live/sha-men-wei-shi-9.m3u8
 #EXTINF:-1,[SD]厦门卫视
 https://t.freetv.fun/live/sha-men-wei-shi-11.m3u8
+#EXTM3U
+#EXTINF:-1,厦门卫视
+http://183.11.239.36:808/hls/17/index.m3u8
 
 #EXTM3U
 #EXTINF:-1,卫视
